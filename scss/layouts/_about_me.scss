@@ -1,5 +1,5 @@
 .about_me_container {
-  background-color: #e8f1f6;
+  background-color: $bgc--secondary--color;
   padding-top: 120px;
   padding-bottom: 120px;
 }
@@ -25,11 +25,12 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
-  font-family: $secondary__font;
+  font-family: $secondary--font;
 
   img {
     width: 50%;
     opacity: 0.5;
+    box-shadow: 5px 5px 10px grey;
   }
 
   p {

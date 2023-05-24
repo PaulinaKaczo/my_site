@@ -7,8 +7,8 @@ function Hero() {
         <section id="hero" className="hero_container">
             <div className="hero_wrapper">
             <div className="text_box">
-                <h1>Paulina Kaczorowska</h1>
-                <p>Hi! I am a passionate junior frontend developer who is dedicated to continuous growth and learning in the field of web development.</p>
+                <h1>Hi! I'm Paulina Kaczorowska</h1>
+                <p>I am a passionate junior frontend developer who is dedicated to continuous growth and learning in the field of web development.</p>
                 <p>I live in Dąbrowa Górnicza, Poland.</p>
                 <div className="social_media_wrapper">
                     <span>
@@ -54,7 +54,7 @@ function Hero() {
                 </div>
             </div>
                 <div className="img_box">
-            <img className="hero_img" src="../images/hero_photo.jpg" alt= 'Image by vectorjuice on Freepik'/>
+            <img className="hero_img" src="../images/hero_photo.jpg" alt= 'Image by vectorjuice on Freepik' title="Image by vectorjuice on Freepik"/>
                 </div>
             </div>
         </section>
