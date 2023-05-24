@@ -4,7 +4,7 @@ import {faLinkedinIn} from "@fortawesome/free-brands-svg-icons/faLinkedinIn";
 
 function Hero() {
     return (
-        <section className="hero_container">
+        <section id="hero" className="hero_container">
             <div className="hero_wrapper">
             <div className="text_box">
                 <h1>Paulina Kaczorowska</h1>
