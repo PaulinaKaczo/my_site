@@ -11,11 +11,11 @@ function Contact() {
                 <p className="contact_info">If you are interested in my profile, please contact me:</p>
                 <div className="contact_details_list">
                 <div className="contact_details">
-                <a href="https://www.linkedin.com/in/paulina-kaczorowska-b246801a1/"><FontAwesomeIcon icon={faLinkedinIn} /> LinkedIn </a>
+                <a href="https://www.linkedin.com/in/paulina-kaczorowska-b246801a1/" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faLinkedinIn} /> LinkedIn </a>
                 <p>Paulina Kaczorowska</p>
                 </div>
                 <div className="contact_details">
-                <a href="mailto:p-cioch@wp.pl"> <FontAwesomeIcon icon={faEnvelope} />E-mail</a>
+                <a href="mailto:p-cioch@wp.pl" target="_blank" rel="noreferrer"> <FontAwesomeIcon icon={faEnvelope} />E-mail</a>
                 <p>p-cioch@wp.pl</p>
                 </div>
                 </div>

@@ -21,9 +21,9 @@ function Projects() {
                             <li>RWD</li>
                         </ul>
                         <div className="demo_code">
-                            <a href="https://skynet-8775e.web.app/">
+                            <a href="https://skynet-8775e.web.app/" target="_blank" rel="noreferrer">
                                 <FontAwesomeIcon icon={faLink} /> Demo </a>
-                            <a href="https://github.com/PaulinaKaczo/search_movies">
+                            <a href="https://github.com/PaulinaKaczo/search_movies" target="_blank" rel="noreferrer">
                                 <FontAwesomeIcon icon={faGithub} /> Code </a>
                         </div>
                     </div>
