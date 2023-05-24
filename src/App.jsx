@@ -4,6 +4,7 @@ import Hero from "../components/Hero.jsx";
 import AboutMe from "../components/AboutMe.jsx";
 import Projects from "../components/Projects.jsx";
 import Contact from "../components/Contact.jsx";
+import Footer from "../components/Footer.jsx";
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
       <AboutMe/>
       <Projects/>
       <Contact/>
+      <Footer/>
     </>
   )
 }

@@ -8,7 +8,7 @@ function Projects() {
             <div className="projects_wrapper">
                 <h2>PROJECTS</h2>
                 <div className="project">
-                    <img src="../images/skynet.png" title="Skynet" alt="Skynet"/>
+                    <img  src="../images/skynet.png" title="Skynet" alt="Skynet"/>
                     <div className="project_details">
                         <h3>Skynet</h3>
                         <p>Skynet is a search engine for movies and TV series depending on the genre. The API from The Movie Database is used for this. The user can search through hundreds of pages, add a given movie/TV series to the list of favorites by clicking the heart icon, and remove it from the list by clicking the trash icon. In addition, the user, after clicking on a particular item, receives detailed information, such as a short description, average rating, number of ratings, and the ability to add your own rating.</p>
