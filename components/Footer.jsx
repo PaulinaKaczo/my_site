@@ -1,7 +1,5 @@
 function Footer() {
-    return (
-        <footer>© 2023 Paulina Kaczorowska</footer>
-    );
+  return <footer>© 2023 Paulina Kaczorowska</footer>;
 }
 
 export default Footer;

@@ -12,15 +12,13 @@ header {
   padding-inline: 20px;
   display: flex;
   justify-content: space-between;
-    a {
-      color: $header--color;
-      font-family: $primary--font;
-    }
-
+  a {
+    color: $header--color;
+    font-family: $primary--font;
+  }
 }
 
 .header_navigation {
-
   display: flex;
   align-items: center;
 
@@ -35,14 +33,11 @@ header {
     font-size: 20px;
     padding: 30px 50px;
     margin: auto;
-    transition: .5s ease-out;
-
+    transition: 0.5s ease-out;
   }
 
   li:hover {
     box-shadow: 5px 5px 15px lightgray;
-
-
   }
 }
 
