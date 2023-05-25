@@ -5,6 +5,7 @@ function Header() {
         <div className="header_logo">
           <a href="#hero">P|K</a>
         </div>
+        <input type="checkbox" name="menu" id="menu" className="hamburger"/>
         <nav className="header_navigation">
           <ul>
             <li>
