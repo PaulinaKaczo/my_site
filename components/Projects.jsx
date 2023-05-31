@@ -52,7 +52,7 @@ function Projects() {
 
         <div className="project">
           <img
-            src="../images/car-sharing.png"
+            src="../images/car_sharing.png"
             title="Car sharing"
             alt="Car sharing"
           />

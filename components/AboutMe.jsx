@@ -5,7 +5,7 @@ function AboutMe() {
         <h2>ABOUT ME</h2>
         <div className="about_me_text">
           <img
-            src="../images/praca-na-laptopie.jpg"
+            src="../images/praca_na_laptopie.jpg"
             alt="Praca na laptopie. Obraz autorstwa pressfoto na Freepik"
             title="Praca na laptopie. Obraz autorstwa pressfoto na Freepik"
           />

@@ -34,34 +34,37 @@ function Hero() {
                 <FontAwesomeIcon icon={faLinkedinIn} />
               </a>
             </span>
+
+
           </div>
           <div className="tech_stack_wrapper">
             <span>Techstack</span>
             <div className="tech_stack_box">
               <ul className="tech_stack_box--list">
                 <li title="HTML5">
-                  <img src="../images/html.svg" alt="HTML5 logo" />
+                  <img src="../images/html-icon.png" alt="HTML5 logo" />
                 </li>
                 <li title="CSS3">
-                  <img src="../images/css.svg" alt="CSS3 logo" />
+                  <img src="../images/css-icon.png" alt="CSS3 logo" />
                 </li>
                 <li title="Sass">
-                  <img src="../images/sass.svg" alt="Sass logo" />
+                  <img src="../images/sass-icon.png" alt="Sass logo" />
                 </li>
                 <li title="JavaScript">
-                  <img src="../images/javascript.svg" alt="JavaScript logo" />
+                  <img src="../images/javascript-icon.png" alt="JavaScript logo" />
                 </li>
                 <li title="React.js">
-                  <img src="../images/react.svg" alt="React.js logo" />
+                  <img src="../images/react-js-icon.png" alt="React.js logo" />
                 </li>
                 <li title="RWD">
-                  <img src="../images/rwd.svg" alt="RWD logo" />
+                  <img src="../images/rwd.png" alt="RWD logo" />
                 </li>
                 <li title="Rest API">
-                  <img src="../images/rest-api.png" alt="Rest API logo" />
+                  <img src="../images/rest-api-icon.png" alt="Rest API logo" />
                 </li>
               </ul>
             </div>
+
           </div>
         </div>
         <div className="img_box">
@@ -71,6 +74,9 @@ function Hero() {
             alt="Image by vectorjuice on Freepik"
             title="Image by vectorjuice on Freepik"
           />
+        </div>
+        <div className="cv_btn">
+          <a href="https://drive.google.com/file/d/105RCXIGIWj8Df3Afk9DENgmhSASTXfpO/view?usp=share_link" title="CV">CV</a>
         </div>
       </div>
     </section>
