@@ -78,7 +78,7 @@ function Projects() {
                 <FontAwesomeIcon icon={faLink} /> Demo{" "}
               </a>
               <a
-                  href="https://github.com/PaulinaKaczo/cokies"
+                  href="https://github.com/PaulinaKaczo/cakes"
                   target="_blank"
                   rel="noreferrer"
               >
