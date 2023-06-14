@@ -30,6 +30,7 @@ function Projects() {
               <li>Rest API</li>
               <li>Material UI</li>
               <li>RWD</li>
+              <li>Firebase</li>
             </ul>
             <div className="demo_code">
               <a
@@ -49,6 +50,44 @@ function Projects() {
             </div>
           </div>
         </div>
+
+        <div className="project">
+          <img src="../images/ciochowe-ciacho.png" title="Ciochowe-ciacho" alt="Ciochowe ciacho" />
+          <div className="project_details">
+            <h3>Ciochowe ciacho</h3>
+            <p>
+              Ciochowe ciacho is a website that offers custom made cakes for every occasion. It contains a menu that makes it easy to navigate to each module. The list of cake flavors is available on a separate page. The photo gallery scrolls to the right/left using the arrows. Contact is possible via chat on Messenger or via the contact form. The website is fully responsive.
+            </p>
+            <p>
+              <strong>Used technologies:</strong>
+            </p>
+            <ul className="technologies_used--list">
+              <li>React.js</li>
+              <li>React Router</li>
+              <li>Sass</li>
+              <li>Material UI</li>
+              <li>RWD</li>
+              <li>Firebase</li>
+            </ul>
+            <div className="demo_code">
+              <a
+                  href="https://ciochowe-ciacho.web.app/"
+                  target="_blank"
+                  rel="noreferrer"
+              >
+                <FontAwesomeIcon icon={faLink} /> Demo{" "}
+              </a>
+              <a
+                  href="https://github.com/PaulinaKaczo/cokies"
+                  target="_blank"
+                  rel="noreferrer"
+              >
+                <FontAwesomeIcon icon={faGithub} /> Code{" "}
+              </a>
+            </div>
+          </div>
+        </div>
+
 
         <div className="project">
           <img
